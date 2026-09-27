@@ -9,4 +9,5 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+ledger.jsonl
 .DS_Store
